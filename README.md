@@ -19,7 +19,7 @@ non-technical stakeholders.
 
 **Focus areas** | _Data science · Machine Learning · AI · Data Prep
 
-**Tools** 🧰 | Python, Pandas, Numpy, Scikit-learn, Seaborn | SQL | Tableau | Excel | Jupyter Notebooks | Git & GitHub  
+**Tools** 🧰 | Python, Pandas, Numpy, Scikit-learn, Seaborn | SQL | Tableau |   
 
 **Certifications** 🎓 | _List your certificates here (e.g. Google Data Analytics, SQL, Python, etc.)_  
 
