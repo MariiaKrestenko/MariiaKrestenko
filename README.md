@@ -10,11 +10,10 @@ I’m currently exploring:
 - 🤖 **Machine learning** – starting with classic problems like **customer churn**
 
 
-
+## 🛠 Toolbox
 <img src="mariia-octocat.png" align="left" width="180" />
 
 
-## 🛠 Toolbox
 
 - **Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL  
 - **BI & Data:** Tableau, Excel, Jupyter Notebooks  
