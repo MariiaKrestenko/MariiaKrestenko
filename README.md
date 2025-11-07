@@ -1,72 +1,31 @@
-# Who's Mariia and What’s She Building? 👋🐾
+# Who's Mariia and What's She Building? 👋 📊
 
+Hi 👋 I’m a Data & ML enthusiast who is passionate about bringing data,
+technology and people together to solve problems and support better decisions.
+I enjoy working on data cleaning, exploratory analysis and beginner-friendly
+machine learning projects, especially around topics like customer behaviour and
+business performance.
 
-Hi, I’m **Mariia Krestenko** – an aspiring data analyst who actually enjoys  
-cleaning messy data (yes, really 😄) and turning it into something useful.
+I have experience with analytics projects that involve gathering requirements,
+preparing and transforming data, building reports and communicating insights to
+non-technical stakeholders.
 
-I’m currently exploring:
+**Awards** 🏅 | _Add any awards, scholarships, hackathons, or notable achievements here._  
 
-- 🧹 **Data cleaning & preparation** – from raw CSV chaos to modelling-ready datasets   
-- 🤖 **Machine learning** – starting with classic problems like **customer churn**
+**Focus areas** | _Data analytics · Data cleaning · Dashboards · Intro to ML_
 
+---
 
-## 🛠 Toolbox
-<img src="mariia-octocat.png" align="left" width="180" />
+<img src="mariia-octocat.png" alt="Mariia’s Octocat" width="190" align="left" />
 
+**Tools** 🧰 | Python, SQL, Tableau, Excel, Jupyter Notebooks, Git & GitHub  
 
+**Certifications** 🎓 | _List your certificates here (e.g. Google Data Analytics, SQL, Python, etc.)_  
 
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL  
-- **BI & Data:** Tableau, Excel, Jupyter Notebooks  
-- **Version control:** Git & GitHub  
-- **Other:** A healthy relationship with Google and Stack Overflow 😉
-
-## :mortar_board: Certificates
+**Fellowships / Programs** 🌱 | _Optional – any bootcamps, mentoring programs or fellowships._  
 
 <br clear="left" />
 
+Want to know more about me and my projects?  
+Check out my latest work here: **[Link to your favourite repo](https://github.com/your-username/your-repo)**.
 
-
-## 🚀 Right now I’m working on
-
-- **Bank Customer Churn Analysis**  
-  Cleaning and exploring data for 10,000 European bank customers,  
-  then building a model to predict who is likely to leave.
-
-
----
-
-## 🎯 Goals for 2026
-
-- Build a small but mighty portfolio of **end-to-end projects**  
-  (data cleaning → EDA → model / dashboard → business insights).  
-- Get very comfortable with **GitHub workflows** and collaborative data projects.  
-- Land a role where I can say “Yes, I did this analysis” and actually mean it.
-
----
-
-## 🌱 Learning in public
-
-I like to keep my work transparent, even when it’s messy:
-
-- Improving code readability and documentation  
-- Experimenting with different modelling approaches  
-- Writing short project summaries so non-data people can follow along
-
-If you’re into data, dashboards, or just enjoy watching someone level up in public,  
-feel free to ⭐ repos, open issues, or just say hi.  
-
-**Thanks for stopping by!** ✨
-<!--
-**MariiaKrestenko/MariiaKrestenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
