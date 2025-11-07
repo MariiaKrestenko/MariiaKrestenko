@@ -12,7 +12,6 @@ I’m currently exploring:
 ---
 <img src="mariia-octocat.png" alt="Mariia’s Octocat" width="180" align="left" />
 
----
 
 ## 🛠 Toolbox
 
