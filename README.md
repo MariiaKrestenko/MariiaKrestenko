@@ -18,13 +18,13 @@ non-technical stakeholders.
 
 <img src="octocat-1762525317792.png" alt="Mariia’s Octocat" width="190" align="left" />
 
-**Focus areas** ⭐ Data science · Machine Learning · AI · Data Prep
+**Focus areas** ⭐ Data science | Machine Learning | AI | Data Prep
 
 **Tools** 💻 Python, Pandas, Numpy, Scikit-learn, Seaborn | SQL | Tableau    
 
 **Certifications** 🎓 Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas | Statistics for Data Analysis | Data Analysis with Python | Coursera: Google Data Analytics Specialization | Google Advanced Data Analytics Specialization 
 
-**Fellowships / Programs** 🌱 | Women In Big Data: Emerging Technologists Program | Mentoring Matters
+**Fellowships / Programs** 🌱 Women In Big Data: Emerging Technologists Program | Mentoring Matters
 
 <br clear="left" />
 
