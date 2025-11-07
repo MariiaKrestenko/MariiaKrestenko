@@ -8,12 +8,13 @@ I have experience with analytics projects that involve gathering requirements,
 preparing and transforming data, building reports and communicating insights to
 non-technical stakeholders. 
 
-**Focus areas** | _Data science · Machine Learning · AI · Data Prep
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
+**Focus areas** | _Data science · Machine Learning · AI · Data Prep
+
 
 <img src="mariia-octocat.png" alt="Mariia’s Octocat" width="190" align="left" />
 
