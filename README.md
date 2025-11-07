@@ -16,7 +16,7 @@ non-technical stakeholders.
 
 
 
-<img src="mariia-octocat.png" alt="Mariia’s Octocat" width="190" align="left" />
+<img src="octocat-1762525317792.png" alt="Mariia’s Octocat" width="190" align="left" />
 
 **Focus areas** ⭐ | Data science · Machine Learning · AI · Data Prep
 
