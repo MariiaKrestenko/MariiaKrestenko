@@ -1,20 +1,18 @@
-# Who's Mariia and What's She Building? 👋 📊
+# Who's Mariia and What's She Building?  🤖📊
 
 Hi 👋 I’m a Data & ML enthusiast who is passionate about bringing data,
 technology and people together to solve problems and support better decisions.
-I enjoy working on data cleaning, exploratory analysis and beginner-friendly
-machine learning projects, especially around topics like customer behaviour and
-business performance.
+I enjoy working on data cleaning, exploratory analysis and machine learning projects.
 
 I have experience with analytics projects that involve gathering requirements,
 preparing and transforming data, building reports and communicating insights to
-non-technical stakeholders.
+non-technical stakeholders. 
 
-**Awards** 🏅 | _Add any awards, scholarships, hackathons, or notable achievements here._  
+**Focus areas** | _Data science · Machine Learning · AI · Data Prep
 
-**Focus areas** | _Data analytics · Data cleaning · Dashboards · Intro to ML_
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white)
 
 <img src="mariia-octocat.png" alt="Mariia’s Octocat" width="190" align="left" />
 
