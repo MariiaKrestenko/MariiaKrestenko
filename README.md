@@ -10,10 +10,11 @@ Once you start analysing it, it's not just “doing numbers” but uncovering pa
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
 
 <img src="octocat-1762525317792.png" alt="Mariia’s Octocat" width="190" align="left" />
 
-**Focus areas** ⭐ Data science | Machine Learning | AI | Data Prep
+**Focus areas** 🚀 Data science | Machine Learning | AI | Data Prep
 
 **Tools** 💻 Python, Pandas, Numpy, Scikit-learn, Seaborn | SQL | Tableau    
 
