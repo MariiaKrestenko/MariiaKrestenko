@@ -5,6 +5,7 @@ technology and people together to solve problems and support better decisions.
 
 I’m drawn to data science because real-world data reflects how things actually are.
 Once you start analysing it, you’re not just “doing numbers” - it’s uncovering patterns that can change decisions, workflows and in small ways, the world around us.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
