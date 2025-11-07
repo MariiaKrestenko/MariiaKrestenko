@@ -27,7 +27,7 @@ I’m currently exploring:
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - Build a small but mighty portfolio of **end-to-end projects**  
   (data cleaning → EDA → model / dashboard → business insights).  
