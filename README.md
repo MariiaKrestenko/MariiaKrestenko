@@ -11,8 +11,9 @@ non-technical stakeholders.
 **Focus areas** | _Data science · Machine Learning · AI · Data Prep
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
 <img src="mariia-octocat.png" alt="Mariia’s Octocat" width="190" align="left" />
 
