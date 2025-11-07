@@ -20,6 +20,7 @@ I’m currently exploring:
 - **Version control:** Git & GitHub  
 - **Other:** A healthy relationship with Google and Stack Overflow 😉
 
+## :mortar_board: Certificates
 
 <br clear="left" />
 
