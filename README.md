@@ -10,7 +10,8 @@ I’m currently exploring:
 - 🤖 **Machine learning** – starting with classic problems like **customer churn**
 
 
-<img src="mariia-octocat.png" alt="Mariia’s Octocat" width="180" align="left" />
+
+<img src="mariia-octocat.png" align="left" width="180" />
 
 
 ## 🛠 Toolbox
