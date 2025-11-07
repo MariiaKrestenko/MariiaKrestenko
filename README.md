@@ -1,7 +1,7 @@
 # Who's Mariia and What’s She Building? 👋🐾
 
 <p align="center">
-  <img src="images/octocat.png" alt="Mariia’s Octocat" width="220">
+  <img src="images/mariia-octocat.png" alt="Mariia’s Octocat" width="220">
 </p>
 
 Hi, I’m **Mariia Krestenko** – an aspiring data analyst who actually enjoys  
