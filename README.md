@@ -20,7 +20,7 @@ non-technical stakeholders.
 
 **Focus areas** ⭐ Data science · Machine Learning · AI · Data Prep
 
-**Tools** 🧰 Python, Pandas, Numpy, Scikit-learn, Seaborn | SQL | Tableau    
+**Tools** 💻 Python, Pandas, Numpy, Scikit-learn, Seaborn | SQL | Tableau    
 
 **Certifications** 🎓 Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas | Statistics for Data Analysis | Data Analysis with Python | Coursera: Google Data Analytics Specialization | Google Advanced Data Analytics Specialization 
 
