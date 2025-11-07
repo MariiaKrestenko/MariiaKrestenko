@@ -26,7 +26,7 @@ Once you start analysing it, it's not just “doing numbers” but uncovering pa
 
 ## 🎯 Open to
 
-- Entry-level junior data science or data analyst roles
+- Entry-level data science or data analyst roles
 - Remote or hybrid positions
 - Collaborating on open source data projects
 
