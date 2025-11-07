@@ -11,8 +11,6 @@ Once you start analysing it, it's not just “doing numbers” but uncovering pa
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
-
-
 <img src="octocat-1762525317792.png" alt="Mariia’s Octocat" width="190" align="left" />
 
 **Focus areas** ⭐ Data science | Machine Learning | AI | Data Prep
@@ -27,7 +25,7 @@ Once you start analysing it, it's not just “doing numbers” but uncovering pa
 
 ## 🎯 Open to
 
-- Entry-level **junior data science** or **data analyst** roles
+- Entry-level junior data science or data analyst roles
 - Remote or hybrid positions
 - Collaborating on open source data projects
 
