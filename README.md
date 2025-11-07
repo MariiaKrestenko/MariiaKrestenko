@@ -13,10 +13,11 @@ non-technical stakeholders.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
-**Focus areas** | _Data science · Machine Learning · AI · Data Prep
 
 
 <img src="mariia-octocat.png" alt="Mariia’s Octocat" width="190" align="left" />
+
+**Focus areas** | _Data science · Machine Learning · AI · Data Prep
 
 **Tools** 🧰 | Python, SQL, Tableau, Excel, Jupyter Notebooks, Git & GitHub  
 
