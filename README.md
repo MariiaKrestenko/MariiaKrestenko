@@ -1,8 +1,5 @@
 # Who's Mariia and What’s She Building? 👋🐾
 
-<p align="center">
-  <img src="mariia-octocat.png" alt="Mariia’s Octocat" width="220">
-</p>
 
 Hi, I’m **Mariia Krestenko** – an aspiring data analyst who actually enjoys  
 cleaning messy data (yes, really 😄) and turning it into something useful.
@@ -13,12 +10,7 @@ I’m currently exploring:
 - 🤖 **Machine learning** – starting with classic problems like **customer churn**
 
 ---
-
-## 🚀 Right now I’m working on
-
-- **Bank Customer Churn Analysis**  
-  Cleaning and exploring data for 10,000 European bank customers,  
-  then building a model to predict who is likely to leave.
+<img src="mariia-octocat.png" alt="Mariia’s Octocat" width="180" align="left" />
 
 ---
 
@@ -28,6 +20,17 @@ I’m currently exploring:
 - **BI & Data:** Tableau, Excel, Jupyter Notebooks  
 - **Version control:** Git & GitHub  
 - **Other:** A healthy relationship with Google and Stack Overflow 😉
+
+---
+
+<br clear="left" />
+
+## 🚀 Right now I’m working on
+
+- **Bank Customer Churn Analysis**  
+  Cleaning and exploring data for 10,000 European bank customers,  
+  then building a model to predict who is likely to leave.
+
 
 ---
 
