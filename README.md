@@ -1,4 +1,4 @@
-# Who's Mariia and What's She Building?  🤖📊
+# Hi, I’m Mariia – Curious About Data, Machine Learning & How Things Really Work 🤖📊
 
 Hi 👋 I’m a Data & ML enthusiast who is passionate about bringing data,
 technology and people together to solve problems and support better decisions.
