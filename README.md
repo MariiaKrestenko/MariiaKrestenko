@@ -9,7 +9,7 @@ I’m currently exploring:
 - 🧹 **Data cleaning & preparation** – from raw CSV chaos to modelling-ready datasets   
 - 🤖 **Machine learning** – starting with classic problems like **customer churn**
 
----
+
 <img src="mariia-octocat.png" alt="Mariia’s Octocat" width="180" align="left" />
 
 
