@@ -2,7 +2,8 @@
 
 Hi 👋 I’m a Data & ML enthusiast who is passionate about bringing data,
 technology and people together to solve problems and support better decisions.
-I enjoy working on data cleaning, exploratory analysis and machine learning projects.
+I enjoy working with data from the very beginning –
+cleaning it, exploring it and then using simple models to answer real questions.
 
 I have experience with analytics projects that involve gathering requirements,
 preparing and transforming data, building reports and communicating insights to
@@ -17,13 +18,14 @@ non-technical stakeholders.
 
 <img src="mariia-octocat.png" alt="Mariia’s Octocat" width="190" align="left" />
 
-**Focus areas** | _Data science · Machine Learning · AI · Data Prep
+**Focus areas** ⭐ | Data science · Machine Learning · AI · Data Prep
 
 **Tools** 🧰 | Python, Pandas, Numpy, Scikit-learn, Seaborn | SQL | Tableau |   
 
-**Certifications** 🎓 | _List your certificates here (e.g. Google Data Analytics, SQL, Python, etc.)_  
+**Certifications** 🎓 Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas | Statistics for Data Analysis | Data Analysis with Python 
+Coursera: Google Data Analytics Specialization | Google Advanced Data Analytics Specialization 
 
-**Fellowships / Programs** 🌱 | _Optional – any bootcamps, mentoring programs or fellowships._  
+**Fellowships / Programs** 🌱 | Women In Big Data: Emerging Technologists Program | Mentoring Matters
 
 <br clear="left" />
 
@@ -33,6 +35,6 @@ non-technical stakeholders.
 - Remote or hybrid positions
 - Collaborating on open source data projects
 
-Want to know more about me and my projects?  
-Check out my latest work here: **[Link to your favourite repo](https://github.com/your-username/your-repo)**.
+<!-- Want to know more about me and my projects?  
+Check out my latest work here: **[Link to your favourite repo](https://github.com/your-username/your-repo)**. -->
 
