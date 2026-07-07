@@ -16,23 +16,26 @@ I’m especially interested in the engineering side of ML: cleaning messy data, 
 
 <img src="mariia-robot-mascot.png" alt="Mariia’s Mascot" width="150" align="left" />
 
-**Focus areas** 
+<strong>Focus areas</strong><br>
 ML engineering | Model APIs | Python tooling | RAG experiments
 
-**Tools**  
-Python | pandas | NumPy | scikit-learn | PyTorch | FastAPI | pytest | Git    
+<br>
 
-**Coursework / Programs**  
-Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas  
-Coursera: Google Data Analytics Specialization, Google Advanced Data Analytics Specialization  
-Women In Big Data: Emerging Technologists Program, Mentoring Matters
+<strong>Tools</strong><br>
+Python | pandas | NumPy | scikit-learn | PyTorch | FastAPI | pytest | Git
 
+<br>
 
-<br clear="left" />
+<strong>Coursework / Programs</strong><br>
+Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas<br>
+Coursera: Google Data Analytics Specialization, Google Advanced Data Analytics Specialization<br>
+Women in Big Data: Emerging Technologists Program, Mentoring Matters
+
+<br clear="left">
 
 ## 🎯 Open to
 
-- Junior Python, AI or ML engineering opportunities
+- Junior Python, AI, or ML engineering opportunities
 - Practical ML/API projects
 - Open-source Python or AI tooling projects
 
