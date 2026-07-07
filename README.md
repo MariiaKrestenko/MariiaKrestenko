@@ -1,8 +1,5 @@
 # Hi, I’m Mariia – Building Python, ML and AI Applications 🤖🐍
 
-👋 I’m a Data & ML enthusiast who is passionate about bringing data,
-technology and people together to solve problems and support better decisions.
-
 I’m learning AI/ML engineering by building practical Python projects: data pipelines, model training scripts, APIs, and small AI-powered tools.
 
 I’m especially interested in the engineering side of ML: cleaning messy data, making experiments repeatable, writing tests, and turning notebooks into usable applications.
