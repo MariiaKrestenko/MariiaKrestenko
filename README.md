@@ -3,8 +3,9 @@
 👋 I’m a Data & ML enthusiast who is passionate about bringing data,
 technology and people together to solve problems and support better decisions.
 
-I’m learning Python, machine learning and AI engineering with a focus on building practical projects: ML pipelines, APIs, model demos and AI-powered tools.
-My current focus is writing clean Python code, working with data, training models, testing my code, and turning ML experiments into fun applications.
+I’m learning AI/ML engineering by building practical Python projects: data pipelines, model training scripts, APIs, and small AI-powered tools.
+
+I’m especially interested in the engineering side of ML: cleaning messy data, making experiments repeatable, writing tests, and turning notebooks into usable applications.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -18,11 +19,11 @@ My current focus is writing clean Python code, working with data, training model
 
 <img src="octocat-1762525317792.png" alt="Mariia’s Octocat" width="190" align="left" />
 
-**Focus areas** 🚀 Python | ML/AI Engineering | FastAPI | scikit-learn | PyTorch | RAG
+**Focus areas** 🚀 ML engineering | Model APIs | Python tooling | RAG experiments
 
 **Tools** 💻 Python | pandas | NumPy | scikit-learn | PyTorch | FastAPI | pytest | Git    
 
-**Certifications** 🎓 Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas | Statistics for Data Analysis | Data Analysis with Python | Coursera: Google Data Analytics Specialization | Google Advanced Data Analytics Specialization 
+**Coursework / Programs 🎓** Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas | Coursera: Google Data Analytics Specialization | Google Advanced Data Analytics Specialization 
 
 **Fellowships / Programs** 🌱 Women In Big Data: Emerging Technologists Program | Mentoring Matters
 
@@ -30,8 +31,8 @@ My current focus is writing clean Python code, working with data, training model
 
 ## 🎯 Open to
 
-- Junior Python / AI / ML engineering opportunities
-- Practical ML projects
+- Junior Python, AI or ML engineering opportunities
+- Practical ML/API projects
 - Open-source Python or AI tooling projects
 
 <!-- Want to know more about me and my projects?  
