@@ -20,9 +20,10 @@ I’m especially interested in the engineering side of ML: cleaning messy data, 
 
 **Tools** 💻 Python | pandas | NumPy | scikit-learn | PyTorch | FastAPI | pytest | Git    
 
-**Coursework / Programs 🎓** 
-Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas 
-Coursera: Google Data Analytics Specialization  
+**Coursework / Programs 🎓**
+
+Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas
+Coursera: Google Data Analytics Specialization
 Google Advanced Data Analytics Specialization 
 
 **Fellowships / Programs** 🌱 Women In Big Data: Emerging Technologists Program | Mentoring Matters
