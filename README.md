@@ -17,7 +17,7 @@ I’m especially interested in the engineering side of ML: cleaning messy data, 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-<img src="octocat-1762525317792.png" alt="Mariia’s Octocat" width="150" align="left" />
+<img src="mariia-robot-mascot.png" alt="Mariia’s Mascot" width="150" align="left" />
 
 **Focus areas** 🚀 ML engineering | Model APIs | Python tooling | RAG experiments
 
