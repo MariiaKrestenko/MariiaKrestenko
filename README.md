@@ -1,22 +1,26 @@
-# Hi, I’m Mariia – Curious About Data, Machine Learning & How Things Really Work 🤖📊
+# Hi, I’m Mariia – Building Python, ML and AI Applications 🤖🐍
 
 👋 I’m a Data & ML enthusiast who is passionate about bringing data,
 technology and people together to solve problems and support better decisions.
 
-I’m drawn to data science because real-world data reflects how things actually are.
-Once you start analysing it, it's not just “doing numbers” but uncovering patterns that can change decisions, workflows and the world around us.
+I’m learning Python, machine learning and AI engineering with a focus on building practical projects: ML pipelines, APIs, model demos and AI-powered tools.
+My current focus is writing clean Python code, working with data, training models, testing my code, and turning ML experiments into fun applications.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 <img src="octocat-1762525317792.png" alt="Mariia’s Octocat" width="190" align="left" />
 
-**Focus areas** 🚀 Data science | Machine Learning | AI | Data Prep
+**Focus areas** 🚀 Python | ML/AI Engineering | FastAPI | scikit-learn | PyTorch | RAG
 
-**Tools** 💻 Python, Pandas, Numpy, Scikit-learn, Seaborn | SQL | Tableau    
+**Tools** 💻 Python | pandas | NumPy | scikit-learn | PyTorch | FastAPI | pytest | Git    
 
 **Certifications** 🎓 Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas | Statistics for Data Analysis | Data Analysis with Python | Coursera: Google Data Analytics Specialization | Google Advanced Data Analytics Specialization 
 
@@ -26,9 +30,9 @@ Once you start analysing it, it's not just “doing numbers” but uncovering pa
 
 ## 🎯 Open to
 
-- Entry-level data science or data analyst roles
-- Remote or hybrid positions
-- Collaborating on open source data projects
+- Junior Python / AI / ML engineering opportunities
+- Practical ML projects
+- Open-source Python or AI tooling projects
 
 <!-- Want to know more about me and my projects?  
 Check out my latest work here: **[Link to your favourite repo](https://github.com/your-username/your-repo)**. -->
