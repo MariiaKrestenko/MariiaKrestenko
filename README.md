@@ -32,7 +32,6 @@ Coursera: Google Data Analytics Specialization, Google Advanced Data Analytics S
 Women in Big Data: Emerging Technologists Program, Mentoring Matters
 
 <br clear="left">
-
 ## 🎯 Open to
 
 - Junior Python, AI, or ML engineering opportunities
