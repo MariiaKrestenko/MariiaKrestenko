@@ -30,13 +30,14 @@ Python | pandas | NumPy | scikit-learn | PyTorch | FastAPI | pytest | Git
 Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas<br>
 Coursera: Google Data Analytics Specialization, Google Advanced Data Analytics Specialization<br>
 Women in Big Data: Emerging Technologists Program, Mentoring Matters
-
 <br clear="left">
-## 🎯 Open to
+<h3>🎯 Open to</h3>
 
-- Junior Python, AI, or ML engineering opportunities
-- Practical ML/API projects
-- Open-source Python or AI tooling projects
+<ul>
+  <li>Junior Python, AI, or ML engineering opportunities</li>
+  <li>Practical ML/API projects</li>
+  <li>Open-source Python or AI tooling projects</li>
+</ul>
 
 <!-- Want to know more about me and my projects?  
 Check out my latest work here: **[Link to your favourite repo](https://github.com/your-username/your-repo)**. -->
