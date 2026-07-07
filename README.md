@@ -16,17 +16,15 @@ I’m especially interested in the engineering side of ML: cleaning messy data, 
 
 <img src="mariia-robot-mascot.png" alt="Mariia’s Mascot" width="150" align="left" />
 
-**Focus areas** 🚀 ML engineering | Model APIs | Python tooling | RAG experiments
+**Focus areas** ML engineering | Model APIs | Python tooling | RAG experiments
 
-**Tools** 💻 Python | pandas | NumPy | scikit-learn | PyTorch | FastAPI | pytest | Git    
+**Tools**  Python | pandas | NumPy | scikit-learn | PyTorch | FastAPI | pytest | Git    
 
-**Coursework / Programs 🎓**
+**Coursework / Programs**  
+Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas  
+Coursera: Google Data Analytics Specialization, Google Advanced Data Analytics Specialization  
+Women In Big Data: Emerging Technologists Program, Mentoring Matters
 
-Maven Analytics: Data Science in Python, Data Analysis with Python & Pandas
-Coursera: Google Data Analytics Specialization
-Google Advanced Data Analytics Specialization 
-
-**Fellowships / Programs** 🌱 Women In Big Data: Emerging Technologists Program | Mentoring Matters
 
 <br clear="left" />
 
