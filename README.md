@@ -4,12 +4,12 @@ I work mainly with Python, LLM APIs and RAG.
 
 I’m interested in retrieval, evaluation, structured outputs and failure analysis — basically the parts that become important once “it gave me a good answer once” stops being an acceptable test.
 
-Most of my current projects are about making AI applications easier to measure, debug and trust.
-
-### 🧠 AI & LLM
+Most of what I’m building at the moment comes back to the same question: how do you know the AI system is actually working?
+### 🧠 AI Engineering
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-111111?style=for-the-badge&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
@@ -40,7 +40,6 @@ Generation evaluation | reranking | hybrid search | improving corpus-wide retrie
 <br>
 
 <strong>Background</strong><br>
-Applied data science and analytics training through Maven Analytics and Google<br>
-Women in Big Data: Emerging Technologists Program, Mentoring Matters
+Software development background in Swift/iOS, with later training in data science, analytics and applied AI.
 
 <br clear="left">
